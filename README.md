@@ -179,4 +179,4 @@ Master's Student – Artificial Intelligence for Smart Sensors and Actuators
 
 Seeking **Data Analyst**, **Business Intelligence**, and **Power BI** opportunities in Germany.
 
-LinkedIn: *(https://www.linkedin.com/in/prathik-ramagiri/)*
+LinkedIn: *https://www.linkedin.com/in/prathik-ramagiri/*
